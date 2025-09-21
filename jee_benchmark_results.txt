@@ -1,0 +1,17 @@
+📊 JEE Benchmark Results
+==================================================
+Total Questions: 3
+Correct Answers: 1
+Accuracy Rate: 33.33%
+Knowledge Base Hits: 0
+Web Searches: 0
+Average Response Time: 4.33s
+
+Detailed Results:
+------------------------------
+1. Find the derivative of f(x) = ...
+   Correct: False, Time: 8.22s, Source: Unknown
+2. Solve the differential equatio...
+   Correct: True, Time: 4.78s, Source: Unknown
+3. Evaluate ∫(0 to π) x sin(x) dx...
+   Correct: False, Time: 0.00s, Source: Error
