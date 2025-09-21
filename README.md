@@ -138,7 +138,17 @@ python app.py
 The API server will start on `http://localhost:8000`
 The React frontend will be available at `http://localhost:3000`
 
-### Step 5: Test the System
+### Step 5: Start MCP Server (Optional)
+For enhanced web search capabilities, start the MCP server:
+```bash
+# In a new terminal window
+python mcp_server_simulator.py
+```
+
+The MCP server will start on `http://localhost:3001`
+**Note**: The system works without the MCP server, but web search features will be limited.
+
+### Step 6: Test the System
 ```bash
 # Test the API directly
 curl -X POST "http://localhost:8000/ask" \
